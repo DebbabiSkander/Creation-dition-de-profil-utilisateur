@@ -1,0 +1,12 @@
+/* Supprimez ces contraintes */
+#root {
+  /* Supprimez max-width ou augmentez-le */
+  max-width: 100%;
+  /* Supprimez les marges et paddings */
+  margin: 0;
+  padding: 0;
+  /* Supprimez text-align center qui centre tout */
+  text-align: left;
+}
+
+/* Conservez le reste des styles si nécessaire */
